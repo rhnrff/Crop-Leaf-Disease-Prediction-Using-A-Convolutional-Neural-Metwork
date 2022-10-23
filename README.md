@@ -1,0 +1,1 @@
+# Crop-Leaf-Disease-Churn-Prediction-Using-A-Convolutional-Neural-Metwork
